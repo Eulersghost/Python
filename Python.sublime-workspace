@@ -1,0 +1,1015 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"med",
+				"medium_cost"
+			],
+			[
+				"ad",
+				"add_pepperoni"
+			],
+			[
+				"user",
+				"userInput"
+			],
+			[
+				"un",
+				"unsigned"
+			],
+			[
+				"inpu",
+				"input_name"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				"dro",
+				"dropdownMenu"
+			],
+			[
+				"toggle",
+				"toggleDropdown"
+			],
+			[
+				"drop",
+				"dropdownBtn"
+			],
+			[
+				"togg",
+				"toggleArrow"
+			],
+			[
+				"trans",
+				"translateY()"
+			],
+			[
+				"nav",
+				"nav-style.css"
+			],
+			[
+				"index",
+				"index.js"
+			],
+			[
+				"styl",
+				"style.css"
+			],
+			[
+				"mous",
+				"mouseleave"
+			],
+			[
+				"dark",
+				"darkgray"
+			],
+			[
+				"ni",
+				"midnightblue"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"dis",
+				"distanceConversion"
+			],
+			[
+				"t",
+				"toMiles"
+			],
+			[
+				"mil",
+				"milesConversion"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"var",
+				"variable1"
+			],
+			[
+				"st",
+				"style.css"
+			],
+			[
+				"c",
+				"column"
+			],
+			[
+				"san",
+				"Lucida Sans Unicode, Lucida Grande, sans-serif"
+			],
+			[
+				"green",
+				"palegreen"
+			],
+			[
+				"light",
+				"lightgreen"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"ser",
+				"Tahoma, Verdana, Segoe, sans-serif"
+			],
+			[
+				"inlin",
+				"inline-flex"
+			],
+			[
+				"shoe",
+				"shoe1"
+			],
+			[
+				"boa",
+				"board1"
+			],
+			[
+				"boar",
+				"board2"
+			],
+			[
+				"board",
+				"board1"
+			],
+			[
+				"sand",
+				"sandybrown"
+			],
+			[
+				"compan",
+				"company-logo"
+			],
+			[
+				"space",
+				"space-around"
+			],
+			[
+				"reve",
+				"row-reverse"
+			],
+			[
+				"gra",
+				"lightslategray"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fle",
+				"flex-box"
+			],
+			[
+				"wh",
+				"ghostwhite"
+			],
+			[
+				"dar",
+				"darkkhaki"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"ros",
+				"mistyrose"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/firefox.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++ 14.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ 14.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++ 14.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++ 17.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ 17.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++ 17.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++ 20.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ 20.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++ 20.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"Termi ",
+				"Terminus: List Shells"
+			],
+			[
+				"Package Settings",
+				"Preferences: Package Control Settings"
+			],
+			[
+				"hub",
+				"GitHub: View (default branch)"
+			],
+			[
+				"branc",
+				"Git: Track Remote Branch"
+			],
+			[
+				"git bra",
+				"Git: Merge Branch"
+			],
+			[
+				"GitHub ",
+				"GitHub: Edit"
+			],
+			[
+				"Github",
+				"GitHub: View (default branch)"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"git comm",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"git ",
+				"Git: Merge Branch"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"Origami S",
+				"Origami: Save Current Layout"
+			],
+			[
+				"termi",
+				"Terminus: List Shells"
+			],
+			[
+				"Terminu",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"termin",
+				"Terminus: List Shells"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"Terminus",
+				"Terminus: List Shells"
+			],
+			[
+				"Settings",
+				"Preferences: Settings"
+			],
+			[
+				" Terminus setting",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"terminus",
+				"Terminus: List Shells"
+			],
+			[
+				"Git:Commit",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"Git: Commit",
+				"Git: Commit history"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"terminus theme",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"Termin",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"Temrinus",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"terminus set",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"termins",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"Package Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"keybi",
+				"Preferences: Key Bindings"
+			],
+			[
+				"UI",
+				"UI: Select Theme"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"De",
+				"Debugger: Quit"
+			],
+			[
+				"Deb",
+				"Debugger: LLDB Display Options"
+			],
+			[
+				"Debugger",
+				"Debugger: Open"
+			],
+			[
+				"Terminus Lis",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"Terminus Li",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"vf",
+				"View Package File"
+			],
+			[
+				"v",
+				"View Package File"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"vp",
+				"View Package File"
+			],
+			[
+				"key",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"Terminal",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"git add ",
+				"Git: Add All"
+			],
+			[
+				"git commit ",
+				"Git: Commit"
+			],
+			[
+				"git init",
+				"Git: Init"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"terminal",
+				"Terminus: Close All"
+			],
+			[
+				"git add all",
+				"Git: Add All"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"hint",
+				"Build With: ESLint"
+			],
+			[
+				"JSH",
+				"JSHint"
+			],
+			[
+				"eslin",
+				"ESLint"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"esl",
+				"SublimeLinter: Show Line Errors"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show Line Errors"
+			],
+			[
+				"Sub",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"SublimeLinter",
+				"SublimeLinter: Goto Error"
+			],
+			[
+				"ling",
+				"SublimeLinter: Goto Error"
+			],
+			[
+				"js prett",
+				"JsPrettier: Format Code"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"key ",
+				"Preferences: Key Bindings"
+			],
+			[
+				"prettify",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"Package In",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"Git:",
+				"Git: Init"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"origami creat",
+				"Origami: Create Pane Below"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"origami",
+				"Origami: Create Pane on the Left"
+			],
+			[
+				"termina",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"Terminus ",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"color theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: List Packages"
+			],
+			[
+				"origami s",
+				"Origami: Save Current Layout"
+			],
+			[
+				"Colo",
+				"Color Helper: Picker"
+			],
+			[
+				"brow",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"List Pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Remove Pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Dox",
+				"DoxyDoxygen: Tutorial"
+			],
+			[
+				"Package ",
+				"Preferences: Browse Packages"
+			],
+			[
+				"JsPr",
+				"JsPrettier: Format Code"
+			],
+			[
+				"Prett",
+				"JsPrettier: Format Code"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"user theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"U",
+				"UI: Customize Theme"
+			],
+			[
+				"Termina",
+				"Terminal: Open in project folder"
+			],
+			[
+				"Terminus Sett",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 256.0,
+		"history":
+		[
+			"clear()",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Python"
+	],
+	"file_history":
+	[
+		"/E/Python/Love_calc.py",
+		"/E/Python/Pizza.py",
+		"/C/Users/lavid/AppData/Roaming/Sublime Text/Packages/User/GitHub.sublime-settings",
+		"/C/Users/lavid/AppData/Roaming/Sublime Text/Packages/User/Git.sublime-settings",
+		"/C/Users/lavid/AppData/Roaming/Sublime Text/Packages/sublime-github/GitHub.sublime-settings",
+		"/C/Users/lavid/AppData/Roaming/Sublime Text/Packages/Git/Git.sublime-settings",
+		"/E/C++/C++ Coding/inputAssignment.cpp",
+		"/C/Users/lavid/AppData/Roaming/Sublime Text/Packages/User/Clang C++.sublime-build",
+		"/C/Users/lavid/AppData/Roaming/Sublime Text/Packages/User/C++ 20.sublime-build",
+		"/E/C++/C++ Coding/sample.cpp",
+		"/E/C++/C++ Coding/lesson1.cpp",
+		"/C/Users/lavid/AppData/Roaming/Sublime Text/Packages/User/C++.sublime-build",
+		"/E/C++/C++ Coding/tip_calculator.cpp",
+		"/E/C++/C++ Coding/hello.exe",
+		"/E/C++/C++ Coding/bmi_v2.0.cpp",
+		"/E/C++/C++ Coding/hello.cpp",
+		"/E/C++/C++ Coding/C++20.sublime-project",
+		"/EC++/C++ Coding/bmi_calc.cpp",
+		"/EC++/C++ Coding/C++20.sublime-project",
+		"/E/C++/C++ Coding/bmi_calc.cpp",
+		"/C/Users/lavid/AppData/Roaming/Sublime Text/Packages/User/C++ 11.sublime-build",
+		"/C/Users/lavid/AppData/Roaming/Sublime Text/Packages/User/C++ 17.sublime-build",
+		"/C/Users/lavid/AppData/Roaming/Sublime Text/Packages/User/C++ 14.sublime-build",
+		"/E/C++/The-C-20-Masterclass-Source-Code/02.EnvironmentSetup/1.Windows/7.V_s_CodeClangConfiguration/test.cpp",
+		"/E/Programming/C-The Hard Way/ex1.c",
+		"/C/Users/lavid/AppData/Roaming/Sublime Text/Packages/User/CPP_Build",
+		"/C/Users/lavid/OneDrive/Documents/FiraCode Nerd Font.reg",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/Vanilla JS/web-developement-follow/udemy/index.html",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/Vanilla JS/web-developement-follow/udemy/style.css",
+		"/C/Users/lavid/Downloads/Other_Properties_CODE/Other_Properties/PhotoSite/Starter/photosite.html",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/Vanilla JS/nav-project/nav-js.js",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/Vanilla JS/nav-project/nav-style.css",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/Vanilla JS/nav-project/nav-index.html",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/Vanilla JS/index.html",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/Vanilla JS/nav-js.js",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/Vanilla JS/nav-css.css",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/Vanilla JS/nav-html.html",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/JS/Vanilla Interactive Menu/index.html",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/JS/Vanilla Interactive Menu/index.js",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/JS/Vanilla Interactive Menu/style.css",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/JS/Vanilla JS Project/index.html",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/JS/Vanilla JS Project/index.js",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/JS/Vanilla JS Project/style.css",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/JS/jQuery/index.html",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/JS/jQuery/style.css",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/JS/jQuery/script.js",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/JS/index.html",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/JS/Miles-KM.js",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/JS/triangle.js",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/JS/WebGL Tutorial/render.js",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/JS/.eslintrc.js",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/JS/WebGL Tutorial/style.css",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/JS/WebGL Tutorial/index.html",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/JS/index.js",
+		"/C/Users/lavid/OneDrive/Documents/Web Development/JS/style.css",
+		"/C/Users/lavid/AppData/Roaming/Sublime Text/Packages/User/firefox.sublime-build",
+		"/C/Users/lavid/AppData/Roaming/Sublime Text/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+		"/E/Web Development/JS/week1/app.js",
+		"/E/Web Development/JS/week1/style.css",
+		"/E/Web Development/JS/week1/index.html",
+		"/E/Web Development/exercise lab/picture-practice/index.html",
+		"/E/Web Development/exercise lab/flex-box/index.html",
+		"/E/Web Development/exercise lab/picture-practice/style.css",
+		"/E/Web Development/Vortex/style.css",
+		"/E/Web Development/Vortex/index.html",
+		"/E/TeaCozy Project/style.css",
+		"/E/TeaCozy Project/index.html",
+		"/E/TeaCozy Project/notes.md",
+		"/E/Web Development/exercise lab/flex-box/style.css",
+		"/E/Web Development/exercise lab/flex-box/test.py",
+		"/E/Web Development/exercise lab/css-practice/html",
+		"/E/Web Development/exercise lab/Batman-Series.avif",
+		"/C/Users/lavid/AppData/Roaming/Sublime Text/Packages/Terminus/Terminus.sublime-settings"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "E:\\Python"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 306.0
+	},
+	"output.Debugger Console":
+	{
+		"height": 402.0
+	},
+	"output.Debugger Console(1)":
+	{
+		"height": 0.0
+	},
+	"output.Debugger Console(1)(2)":
+	{
+		"height": 0.0
+	},
+	"output.Debugger Console(1)(2)(3)":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 150.0
+	},
+	"output.Terminus":
+	{
+		"height": 302.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 144.0
+	},
+	"output.Terminus Build Results":
+	{
+		"height": 359.0
+	},
+	"output.autopep8":
+	{
+		"height": 132.0
+	},
+	"output.exec":
+	{
+		"height": 348.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 159.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python 3.12.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\C++\\C++ Coding\\bmi_calc.cpp"
+			],
+			[
+				"st",
+				"style.css"
+			],
+			[
+				"styl",
+				"flex-box\\style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

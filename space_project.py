@@ -3,16 +3,19 @@
 
 #So I'm going to re-design the game simulation to make it a space choice game.  Need to pull in mt assets. 
 
-print(r'''  
+import sys
 
-   																		                    .-.
-																		     .-""`""-.    |(@ @)
-    																	  _/`oOoOoOoOo`\_ \ \-/
-                                                                         '.-=-=-=-=-=-=-.' \/ \
-                                                                           `-=.=-.-=.=-'    \ /\
-                                                                              ^  ^  ^       _H_ \
 
-         
+print(r'''   
+                  .-.
+   .-""`""-.    |(@ @)
+_/`oOoOoOoOo`\_ \ \-/
+'.-=-=-=-=-=-=-.' \/ \
+  `-=.=-.-=.=-'    \ /\
+     ^  ^  ^       _H_ \
+
+
+
                 }--O--{
                   [^]
                  /ooo\
@@ -38,38 +41,50 @@ print("Welcome to space oddessy:  Your mission just launched from Orbital 1 stat
 
 
 
-#game play turn 1
-turn1 = input("Engage rocket boosters, yes or no?")
+#turn 1
+turn1 = input("Engage rocket boosters, yes or no? \n")
+turn1_lower = turn1.lower()
+
+if turn1_lower== "yes" or turn1_lower == "y" or turn1_lower == "YES":
+  print("Invading space army jumped out of hyperspeed. \n")
+elif turn1_lower == "no" or turn1_lower == 'n' or turn1_lower == "NO":
+  print("Hit by a comet. Game Over! \n")
+  sys.exit()
+elif turn1 and turn1 != ("yes" or "no"):
+  print("Mystery surprise: Game Over! \n")
+  sys.exit()
+else:
+  print("Game Over")
+  sys.exit()
 
 #turn 2
-prompt1="Invading space army jumped out of hyperspeed."
-turn2 = input("Hide or fight?")
+turn2 = input("Hide or fight? \n")
+turn2_lower = turn2.lower()
 
-#turn 3
-prompt2="Hyperspeed point is coming up, you're off of the mark by 2 flight units"
-final_turn = int(input("What do you do? 1.) Look for fuel, 2.) calculate route, 3.) or wait?"))
-
-if turn1 == "yes" or "y":
-	print(prompt1)
-elif turn1 == "no" or "n":
-	print("Hit by a comet. Game Over!")
+if turn2_lower == "Hide" or turn2_lower == "hide" or turn2_lower == "HIDE":
+  print("Space invaders launched a missle and you're dead. Game Over! \n")
+  sys.exit()
+elif turn2_lower == "Fight" or turn2_lower == "fight" or turn2_lower =="FIGHT":
+  print("Hyperspeed point is coming up, you're off of the mark by 2 flight units \n")
+elif turn2 != ("fight" or "hide"):
+  print("Mystery surprise: Game Over! \n")
+  sys.exit()
 else:
-	"Mystery surprise: Game Over!"
-# if turn1 == "yes" or "y":
-# 	print(prompt1)
-# 	if turn2 =="hide":
-# 			print("Space invaders launched a missle and you're dead. Game Over!")
-# 	elif turn2 == "fight":
-# 			print(prompt2)
-# 			if final_turn =="1":
-# 				print("Ran out of fuel for the hyperspeed jump, float in space until your oxygen runs out. Game Over!")
-# 			elif final_turn == "2":
-# 				print("Inter-dimensional space snake exists a nearby wormhole and eats you whole. Game Over!")
-# 			elif final_turn == "3":
-# 				print("Lunar colony picked up your distress call andsentaid to your rescue. You win!")
-# 			else:
-# 				print("Mystery surprise: Game Over!")
-# elif turn1 == "no" or "n":
-# 	print("Hit by a comet. Game Over!")
-# else:
-# 	print("Mystery surprise: Game Over!")
+  print("Game Over")
+  sys.exit()
+
+
+# turn 3
+final_turn = int(input("What do you do? Enter the following numbers: 1.) Look for fuel, 2.) calculate route, 3.) or wait? \n"))
+
+if final_turn == 1:
+  print("Ran out of fuel for the hyperspeed jump, float in space until your oxygen runs out. Game Over!")
+  sys.exit()
+elif final_turn == 2:
+  print("Inter-dimensional space snake exists a nearby wormhole and eats you whole. Game Over!\n")
+  sys.exit()
+elif final_turn == 3:
+  print("Lunar colony picked up your distress call and sent aid to your rescue. You win! \n")
+else:
+  print("Game Over")
+  sys.exit()

@@ -24,4 +24,4 @@ else:
 #in the lesson answer she coded the random choice as 
 #num_items = len(names)
 #random_choice = random.randint(0,num_items-1)
-#print(name[random_choice])
+#print(name[random_choice])˛˛

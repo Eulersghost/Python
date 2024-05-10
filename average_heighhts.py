@@ -20,12 +20,12 @@ studentSum = int(sum(student_heights))
 
 #3. average the results together
 
-totalSum = studentSum / len_int_convert
-∏
+totalSum = round(studentSum / len_int_convert)
+
 
 print(f"total height = {studentSum}")
 print(f"number of students = {len_int_convert}")
-print(f"average height = {studentSum}")
+print(f"average height = {totalSum}")
 
 
 

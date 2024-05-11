@@ -28,16 +28,34 @@ print(f"number of students = {len_int_convert}")
 print(f"average height = {totalSum}")
 
 
+#---------------------#
 
-# test_student_convert = int(str(student_heights))
-# print(test_student_convert)
-# student_convert = int(''.join(map(str, student_heights)))
-
-# print(student_convert, type(student_convert))
+#some examples that I found for summing with a for loop 
 
 
-#Example code
+# myList = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+# print("The given list is:")
+# print(myList)
+# sumOfElements = 0
+# for element in myList:
+#     sumOfElements = sumOfElements + element
 
-# my_list = [1, 2, 3, 4, 5]
-# int_result = int(''.join(map(str, my_list)))
-# print("Result:", int_result)
+# print("Sum of all the elements in the list is:", sumOfElements)
+
+
+
+# to find the length of the list to specify the length at the nth term, and do n-1.
+
+# counter = 0
+# for item in list:
+#   counter += 1
+#   print(counter)
+
+
+
+  #another example 
+#   inp_lst = ['Python', 'Java', 'Ruby', 'JavaScript']
+# size = 0
+# for x in inp_lst:
+#     size += 1
+# print(size)

@@ -10,21 +10,27 @@ for n in range(0, len(student_heights)):
 
 #1. grab the length of the list and convert to an int
 
-len_int_convert = int(len(student_heights))
+# len_int_convert = int(len(student_heights))
 
+len_counter = 0
+for x in student_heights:
+  len_counter += 1
 
 #2. convert the input list to a integer
 
-studentSum = int(sum(student_heights))
+#studentSum = int(sum(student_heights))
 
+studentSum = 0
+for y in student_heights:
+  studentSum = studentSum + y
 
 #3. average the results together
 
-totalSum = round(studentSum / len_int_convert)
+totalSum = round(studentSum / len_counter)
 
 
 print(f"total height = {studentSum}")
-print(f"number of students = {len_int_convert}")
+print(f"number of students = {len_counter}")
 print(f"average height = {totalSum}")
 
 
